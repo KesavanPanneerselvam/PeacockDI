@@ -18,6 +18,6 @@ It having two types of annotations **@Inject** and **@Provides**.
 
 **@Provides** will helps to declare the functions. Both will process in runtime.
 
-### Dependency Injection
+## Dependency Injection
 
 **InjectorModule** is an interface and it will helps to inject the module. The declaration of injection methods are declared in **Injectors** object.
